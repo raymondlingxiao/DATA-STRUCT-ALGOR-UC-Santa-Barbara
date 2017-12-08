@@ -1,7 +1,9 @@
 # DATA-STRUCT-ALGOR-UC-Santa-Barbara
-Hi! Here is the project which I implemented with C++, when I was in UC Santa Barbara. 
+Hi! Here is the project which I implemented with C++, when I was in UC Santa Barbara, taking the course Data Structure Algorithm.
 
-This project intends to imitate virus attacking the computers in the network and the system defending the attacks.
+This project intends to simulate virus attacking the computers in the network and the system defending the attacks.(Discrete Event Simulation)
+
+Total Lines > 700
 
 Measurements invovled:
 1. Implemented the Graph structure and used nodes to represent computers.
