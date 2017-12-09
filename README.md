@@ -3,7 +3,7 @@ Hi! Here is the project which I implemented with C++, when I was in UC Santa Bar
 
 This project intends to simulate virus attacking the computers in the network and the system defending the attacks.(Discrete Event Simulation)
 
-Total Lines > 700
+Total Lines > 700, see requirement details in the .PDF file.
 
 Measurements invovled:
 1. Implemented the Graph structure and used nodes to represent computers.
